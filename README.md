@@ -1,4 +1,4 @@
-# OYMPIC-MEDALS-VS-GDP-2023
+# OLYMPIC-MEDALS-VS-GDP-2023
 The Olympics Vs Gross Domestic Product (GDP) 2023 for some selected countries buttresses the issues of comparison between winning at sports and the revenue through GDP. 
 The Uited States of America consistenly topped the charts for all medals won (gold, silver, bronze) with a wide margin despite reporting an average population and ranking 6th position on the GDP table while Ireland on the other hand, topped the GDP table and wasnt amongst the top 10 countries on the medal tables which further explains that having a high GDP does not equate winning medals at sports or competition. The following observations and recommendations were drawn from this analysis.
 
